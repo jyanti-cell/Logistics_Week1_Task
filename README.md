@@ -1,5 +1,6 @@
 # Logistics Week 1 - Strategic Planning and Data Exploration
 
+
 ## Project Overview
 This project focuses on exploring logistics delivery data and identifying factors that affect delivery time.
 
